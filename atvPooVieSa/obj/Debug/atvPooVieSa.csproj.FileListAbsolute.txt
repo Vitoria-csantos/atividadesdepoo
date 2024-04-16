@@ -1,0 +1,11 @@
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.Form1.resources
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.Properties.Resources.resources
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\bin\Debug\atvPooVieSa.exe.config
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\bin\Debug\atvPooVieSa.exe
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\bin\Debug\atvPooVieSa.pdb
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.frmmenu.resources
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.exe
+C:\Users\2jd\Desktop\Vitória e Sabrina\atvPooVieSa\atvPooVieSa\obj\Debug\atvPooVieSa.pdb
